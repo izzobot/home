@@ -40,7 +40,7 @@ Inspired by [/r/startpages](https://www.reddit.com/r/startpages)—the idea is t
 * OneDrive `od`
 * Sheets `sh`
 * Speedtest `sp`
-* Keep' `k`
+* Keep `k`
 * Amazon Shop `a`
 * eBay `e`
 
