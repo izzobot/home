@@ -6,7 +6,7 @@ Inspired by [/r/startpages](https://www.reddit.com/r/startpages)—the idea is t
 
 ## Custom Links
 
-* Duck Duck Go `*`
+* Duck Duck Go `*` (Default search)
 * Google `g`
 * Google Calendar `c`
 * Gmail `gm`
