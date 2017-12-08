@@ -4,6 +4,46 @@ Inspired by [/r/startpages](https://www.reddit.com/r/startpages)—the idea is t
 
 ![Screenshot](SCREENSHOT.png?raw=true "Screenshot")
 
+## Custom Links
+
+* Duck Duck Go `*`
+* Google `g`
+* Google Calendar `c`
+* Gmail `gm`
+* Outlook `o`
+* Telegram `t`
+* Twitter `twt`
+* WhatsApp `wa`
+* Reddit `r`
+* BBC News `bbc`
+* Instagram `i`
+* Netflix `n`
+* Prime Video `p`
+* Twitch `tw`
+* YouTube `yt`
+* InterfaceLIFT `in`
+* Bandcamp `bc`
+* Play Music `m`
+* Spotify `s`
+* Soundcloud `sc`
+* Humble `h`
+* Icy Veins `iv`
+* Steam `st`
+* Wowhead `wh`
+* Discord `dis`
+* 1Password `1`
+* Backblaze B2 `b2`
+* Google Drive `gd`
+* Dropbox `d`
+* Github `git`
+* OneNote `on`
+* OneDrive `od`
+* Sheets `sh`
+* Speedtest `sp`
+* Keep' `k`
+* Amazon Shop `a`
+* eBay `e`
+
 ## Usage
 
 To go to a site, enter the corresponding key. To view the available sites and their keys, press `?`. If your input doesn't match any of the commands, a generic Google search will be triggered. For example:
